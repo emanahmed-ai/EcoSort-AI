@@ -6,10 +6,10 @@
 
 - **Supervised by:** Professor Dr. Mohamed El-Haddad
 - **Team Members:**
-  - Asmaa Eldaly
+  - Eman Ahmed
   - Asmaa Salah
   - Aya Abdelnaem
-  - **إيمان أحمد**
+  - Asmaa Eldaly
   - Amira Salama
 
 This project establishes a strict, leak-free computer vision pipeline evaluating lightweight and modern convolutional architectures (ConvNeXt-Tiny, MobileNetV2, and EfficientNetV2-S) to bridge the gap between dataset accuracy and practical deployment.
@@ -36,16 +36,15 @@ The project snapshot comprises **12,259** JPEG images categorized into **10** di
 | **Biological** | 699 | **Trash** | 453 |
 
 ### Dataset Samples
-### Dataset Samples
 
-فيما يلي لقطات توضيحية من داخل صناديق التجميع الفعلية التي تم استخدامها لجمع البيانات، مما يبرز تنوع المواد والتحديات الواقعية (مثل وجود عبوات متعددة، مواد غير مصنفة، وملوثات):
+Below are illustrative snapshots from actual collection bins used to gather data, highlighting material diversity and real-world challenges such as multiple items, unclassified waste, and contaminants:
 
-![EcoSort AI - Dataset Samples Overview](dataset-samples-1.png)
+![EcoSort AI - Dataset Samples Overview](dataset_samples_1.png)
 
-يوضح الجزء المقرب أدناه التحدي المتمثل في تداخل الزجاجات الفارغة (الشفافة والخضراء) مع ملصقاتها البارزة، مما يتطلب تمييزاً دقيقاً من نماذجنا للتعرف على الأشياء:
+The close-up view below illustrates the challenge of overlapping empty bottles (clear and green) with prominent labels, requiring precise feature discrimination from our models for accurate object recognition:
 
-![EcoSort AI - Dataset Samples (Bottles Close-up)](dataset-samples-2.png)
+![EcoSort AI - Dataset Samples (Bottles Close-up)](dataset_samples_2.png)
 
-تعكس الصورة النهائية تنوع المواد الورقية والكرتونية في مرحلة ما قبل الفرز، بما في ذلك الأكواب الورقية، صناديق الوجبات السريعة، والورق العادي، مع تفاوت في الألوان والظلال:
+The final image reflects the diversity of paper and cardboard materials during the pre-sorting stage, including paper cups, fast-food boxes, and plain paper with varying colors and lighting conditions:
 
-![EcoSort AI - Dataset Samples (Paper & Cardboard Collection)](dataset-samples-3.png)
+![EcoSort AI - Dataset Samples (Paper & Cardboard Collection)](dataset_samples_3.png)
