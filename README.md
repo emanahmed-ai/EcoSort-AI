@@ -48,3 +48,18 @@ The close-up view below illustrates the challenge of overlapping empty bottles (
 The final image reflects the diversity of paper and cardboard materials during the pre-sorting stage, including paper cups, fast-food boxes, and plain paper with varying colors and lighting conditions:
 
 ![EcoSort AI - Dataset Samples (Paper & Cardboard Collection)](dataset_samples_3.png)
+## Dataset Partitioning & Class Distribution
+
+![Dataset Partitioning by Split Ratio](dataset_partitioning.png)
+
+- **Training Set:** 9,194 images (Balanced)
+- **Validation Set:** 1,839 images
+- **Held-Out Test Set (Locked):** 1,226 images
+
+---
+
+## Model Architecture & Pipeline
+
+### Pipeline Diagram
+
+![Model Architecture Pipeline](model_architecture.png)
