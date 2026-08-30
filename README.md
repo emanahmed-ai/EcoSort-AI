@@ -36,3 +36,16 @@ The project snapshot comprises **12,259** JPEG images categorized into **10** di
 | **Biological** | 699 | **Trash** | 453 |
 
 ### Dataset Samples
+### Dataset Samples
+
+فيما يلي لقطات توضيحية من داخل صناديق التجميع الفعلية التي تم استخدامها لجمع البيانات، مما يبرز تنوع المواد والتحديات الواقعية (مثل وجود عبوات متعددة، مواد غير مصنفة، وملوثات):
+
+![EcoSort AI - Dataset Samples Overview](dataset-samples-1.png)
+
+يوضح الجزء المقرب أدناه التحدي المتمثل في تداخل الزجاجات الفارغة (الشفافة والخضراء) مع ملصقاتها البارزة، مما يتطلب تمييزاً دقيقاً من نماذجنا للتعرف على الأشياء:
+
+![EcoSort AI - Dataset Samples (Bottles Close-up)](dataset-samples-2.png)
+
+تعكس الصورة النهائية تنوع المواد الورقية والكرتونية في مرحلة ما قبل الفرز، بما في ذلك الأكواب الورقية، صناديق الوجبات السريعة، والورق العادي، مع تفاوت في الألوان والظلال:
+
+![EcoSort AI - Dataset Samples (Paper & Cardboard Collection)](dataset-samples-3.png)
